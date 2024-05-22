@@ -59,7 +59,8 @@
 如何申请visa虚拟卡？只需简单的三步即可轻松注册完成：
 1. 通过手机注册获取验证码 [注册地址](https://www.fomepay.com/)：[https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80]
    
-![image](https://github.com/wclaud161/XuniCard/assets/169964926/73e219cc-0d49-45a1-97cd-203074bc0d33)
+![image](https://github.com/wclaud161/XuniCard/assets/169964926/cc19b463-73ed-4708-ac9a-e56e1032e1b5)
+
 
 
 2. 申请卡
